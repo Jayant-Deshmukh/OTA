@@ -1,0 +1,19 @@
+Updater
+=======
+Simple application to download and apply OTA packages.
+
+```json
+{
+  "response": [
+    {
+      "datetime": 1230764400,
+      "filename": "ota-package.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "romtype": "ROGUE",
+      "size": 314572800,
+      "url": "https://example.com/ota-package.zip",
+      "version": "Fifteen"
+    }
+  ]
+}
+```
