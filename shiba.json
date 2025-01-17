@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1737115233,
-      "filename": "SuperiorOS-Fifteen-ROGUE-shiba-20250117-1200-delta.zip",
-      "id": "fa96629d64e9238dd308ec5ec8278b73d1eb2f15",
+      "datetime": 1737119798,
+      "filename": "SuperiorOS-Fifteen-ROGUE-shiba-20250117-1316-delta.zip",
+      "id": "f63b893694f989da8eaf6b4e19c30e36661880ac",
       "romtype": "ROGUE",
-      "size": 928697,
-      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-Fifteen-ROGUE-shiba-20250117-1200-delta.zip",
+      "size": 248454,
+      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-Fifteen-ROGUE-shiba-20250117-1316-delta.zip",
       "version": "Fifteen"
     }
   ]
