@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1745758805,
-      "filename": "SuperiorOS-Fifteen-ROGUE-violet-20250427-1300-delta.zip",
-      "id": "b3b6409bc8ac8e5ebd2c22f4f4bb73b98843ea0b",
+      "datetime": 1745987243,
+      "filename": "SuperiorOS-Fifteen-ROGUE-violet-20250430-0427-signed-fullota.zip",
+      "id": "5eb1168ee6ff874c2172cee11d94c927b9514920",
       "romtype": "ROGUE",
-      "size": 23280751,
-      "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-Fifteen-ROGUE-violet-20250427-1300-delta.zip",
+      "size": 1853310428,
+      "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-Fifteen-ROGUE-violet-20250430-0427-signed-fullota.zip",
       "version": "Fifteen"
     }
   ]
