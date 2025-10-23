@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1761064213,
-      "filename": "9.0-20251021-UNOFFICIAL-shiba-signed-fullota.zip",
-      "id": "978e0aa65e4efac38fbe0e567b38dd1ff8884c36",
-      "romtype": "ROGUE",
-      "size": 1649334206,
-      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/9.0-20251021-UNOFFICIAL-shiba-signed-fullota.zip",
-      "version": "Fifteen"
+      "datetime": 1761212653,
+      "filename": "SuperiorOS-16.0-20251023_094402-RELEASE-shiba-delta.zip",
+      "id": "2b4e747ad045031c479be22f28d3d9916a80bfd1",
+      "romtype": "RELEASE",
+      "size": 284759,
+      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-16.0-20251023_094402-RELEASE-shiba-delta.zip",
+      "version": "16.0"
     }
   ]
 }
