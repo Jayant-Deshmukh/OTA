@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1761369028,
-      "filename": "SuperiorOS-16.0-20251025_051009-RELEASE-shiba-delta.zip",
-      "id": "16eb1fff14ecd368ea8f52484487f0f9161c0531",
+      "datetime": 1761466141,
+      "filename": "SuperiorOS-16.0-20251026_080856-RELEASE-shiba-delta.zip",
+      "id": "525be6d34761a0f2a46aa7e737c2b9c67bc8779f",
       "romtype": "RELEASE",
-      "size": 833707,
-      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-16.0-20251025_051009-RELEASE-shiba-delta.zip",
+      "size": 14526753,
+      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-16.0-20251026_080856-RELEASE-shiba-delta.zip",
       "version": "16.0"
     }
   ]
