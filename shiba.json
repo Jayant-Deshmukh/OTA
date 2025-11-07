@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1762489477,
-      "filename": "SuperiorOS-16.0-20251107-0424-OFFICIAL-GAPPS-shiba-delta.zip",
-      "id": "8df9237b15d4dba603a84650d31eb6a782a49c58",
+      "datetime": 1762530731,
+      "filename": "SuperiorOS-16.0-20251107-1552-OFFICIAL-GAPPS-shiba-delta.zip",
+      "id": "900b37973bfbe885ffb9ff8f1a796c3e31857caf",
       "romtype": "OFFICIAL",
-      "size": 5580577,
-      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-16.0-20251107-0424-OFFICIAL-GAPPS-shiba-delta.zip",
+      "size": 1543676,
+      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-16.0-20251107-1552-OFFICIAL-GAPPS-shiba-delta.zip",
       "version": "16.0"
     }
   ]
