@@ -7,7 +7,9 @@
       "romtype": "OFFICIAL",
       "size": 1613165217,
       "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-16.0-20251108-0620-OFFICIAL-GAPPS-violet-signed-fullota.zip",
-      "version": "16.0"
+      "version": "16.0",
+      "device_name": "Xiaomi Redmi Note 7 Pro",
+      "maintainer": "Nipin NA (@Joker_V2_0)"
     }
   ]
 }

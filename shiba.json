@@ -7,7 +7,9 @@
       "romtype": "OFFICIAL",
       "size": 1481854,
       "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-16.0-20251108-0711-OFFICIAL-GAPPS-shiba-delta.zip",
-      "version": "16.0"
+      "version": "16.0",
+      "device_name": "Google Pixel 8",
+      "maintainer": "Jayant Deshmukh (@jd1811)"
     }
   ]
 }
