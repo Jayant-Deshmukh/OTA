@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1762582816,
+      "filename": "SuperiorOS-16.0-20251108-0620-OFFICIAL-GAPPS-violet-signed-fullota.zip",
+      "id": "a435dd9e90ab9fd1868cf1b9fc79400ce4a4bdaf",
+      "romtype": "OFFICIAL",
+      "size": 1613165217,
+      "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-16.0-20251108-0620-OFFICIAL-GAPPS-violet-signed-fullota.zip",
+      "version": "16.0"
+    }
+  ]
+}
