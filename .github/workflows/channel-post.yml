@@ -10,7 +10,7 @@ jobs:
       - name: Install Dep
         run: sudo pip install pyTelegramBotAPI
       - name: Checkout Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GH_TOKEN }}
           ref: sixteen-los
@@ -31,7 +31,7 @@ jobs:
         run: sudo ls
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: releases
           retention-days: 2
@@ -49,13 +49,13 @@ jobs:
     needs: poster
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GH_TOKEN }}
           ref: sixteen-los
 
       - name: Download artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           name: releases
 
