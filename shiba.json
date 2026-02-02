@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1769399388,
-      "filename": "SuperiorOS-16.2-20260126-0349-OFFICIAL-GAPPS-shiba-delta.zip",
-      "id": "a2f9dcc788dbb95e74f886257733189086054307",
+      "datetime": 1770033241,
+      "filename": "SuperiorOS-16.2-20260202-1153-OFFICIAL-GAPPS-shiba-delta.zip",
+      "id": "d79332f049d57c0adb3f7e3c708b8099abd5334b",
       "romtype": "OFFICIAL",
-      "size": 3485455,
-      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-16.2-20260126-0349-OFFICIAL-GAPPS-shiba-delta.zip",
+      "size": 8555531,
+      "url": "https://master.dl.sourceforge.net/project/superioros/shiba/SuperiorOS-16.2-20260202-1153-OFFICIAL-GAPPS-shiba-delta.zip",
       "version": "16.2",
       "device_name": "Google Pixel 8",
       "maintainer": "Jayant Deshmukh (@jd1811)"
